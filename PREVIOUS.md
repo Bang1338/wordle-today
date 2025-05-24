@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one is May 23rd, 2025, Wordle 1434
+Previous one was  May 23rd, 2025, Wordle 1434
 
 Outdated? See [new one here](README.md)
 

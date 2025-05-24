@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is May 24th, 2025, Wordle 1435
+Today is  May 24th, 2025, Wordle 1435
 
 Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 
