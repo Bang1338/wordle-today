@@ -11,7 +11,7 @@ Today is May 24th, 2025, Wordle 1435
 Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 
 ## Fair warning
-- This will show Wordle answer at the end, as well as hints. If you don't want spoiler and try it yourself without hint, **please look away**'.
+- This will show Wordle answer at the end, as well as hints. If you don't want spoiler and try it yourself without hint, **please look away**.
 
 ## Wordle hints
 

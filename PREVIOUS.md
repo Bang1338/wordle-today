@@ -11,7 +11,7 @@ Previous one is May 23rd, 2025, Wordle 1434
 Outdated? See [new one here](README.md)
 
 ## Fair warning
-- This will show Wordle answer at the end, as well as hints. If you don't want spoiler and try it yourself without hint, **please look away**'.
+- This will show Wordle answer at the end, as well as hints. If you don't want spoiler and try it yourself without hint, **please look away**.
 
 ## Wordle hints
 
