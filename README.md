@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is  May 24th, 2025, Wordle 1435
+Today is  May 25th, 2025th, Wordle 1436
 
 Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 
@@ -18,29 +18,29 @@ Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. In fact, one of them are repeated. If I count that too, there are 3 vowels.
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "G"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "T"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A type of soft leather, made from calfskin, with a brushed texture to resemble fabric, often used to make boots, clothing and fashion accessories.
+  A confidence game or swindle.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 
 <details>
   <summary>The word is...</summary>
-  SUEDE
+  GRIFT
 </details>
 
 Want to see [previous hints and answer](PREVIOUS.md)?

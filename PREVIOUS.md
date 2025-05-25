@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was  May 23rd, 2025, Wordle 1434
+Previous one was  May 24th, 2025, Wordle 1435
 
 Outdated? See [new one here](README.md)
 
@@ -18,13 +18,13 @@ Outdated? See [new one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  Zero repeated letters.
+  1 repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. In fact, one of them are repeated. If I count that too, there are 3 vowels.
 </details>
 
 ### Hint #3: First letter and Last letter
@@ -34,13 +34,13 @@ Outdated? See [new one here](README.md)
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "K"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The shell or husk, especially of grains (e.g. corn/maize) or nuts (e.g. walnuts).
+  A type of soft leather, made from calfskin, with a brushed texture to resemble fabric, often used to make boots, clothing and fashion accessories.
 </details>
 
 ## ANSWER
@@ -48,5 +48,5 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SHUCK
+  SUEDE
 </details>
