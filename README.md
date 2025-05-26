@@ -40,7 +40,7 @@ Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A male ant, bee or wasp, which does not work but can fertilize the queen bee.
+  A small flying object.
 </details>
 
 ## ANSWER
