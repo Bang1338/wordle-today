@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is  May 26th, 2025, Wordle 1437
+Today is  May 27th, 2025, Wordle 1438
 
 Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 
@@ -24,23 +24,23 @@ Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "D"
+  Begins with the letter "S"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "T"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A male ant, bee or wasp, which does not work but can fertilize the queen bee.
+  Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous one here](PREVIOUS.md)
 
 <details>
   <summary>The word is...</summary>
-  DRONE
+  SPORT
 </details>
 
 Want to see [previous hints and answer](PREVIOUS.md)?
