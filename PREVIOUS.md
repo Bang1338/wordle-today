@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was  May 26th, 2025, Wordle 1437
+Previous one was May 26th, 2025, Wordle 1437
 
 Outdated? See [new one here](README.md)
 
@@ -50,3 +50,5 @@ Outdated? See [new one here](README.md)
   <summary>The word is...</summary>
   DRONE
 </details>
+
+Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
