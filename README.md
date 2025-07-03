@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is July 02nd, 2nd02nd5, Wordle 1474
+Today is July 03rd, 2025, Wordle 1475
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -18,29 +18,29 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  Zero repeated letters.
+  1 repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "I"
+  Begins with the letter "P"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "R"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  To bring upon oneself or expose oneself to, especially something inconvenient, harmful, or onerous; to become liable or subject to
+  Any plant of the genus Papaver or the family Papaveraceae, with crumpled, often red, petals and a milky juice having narcotic properties; especially the common poppy or corn poppy (Papaver rhoeas) which has orange-red flowers; the flower of such a plant.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  INCUR
+  POPPY
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?

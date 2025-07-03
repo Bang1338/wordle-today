@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was July 01st, 2025, Wordle 1473
+Previous one was July 02nd, 2nd02nd5, Wordle 1474
 
 Outdated? See [new one here](README.md)
 
@@ -24,23 +24,23 @@ Outdated? See [new one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "M"
+  Begins with the letter "I"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "Y"
+  Ends with the letter "R"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Covered with mold.
+  To bring upon oneself or expose oneself to, especially something inconvenient, harmful, or onerous; to become liable or subject to
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  MOLDY
+  INCUR
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
