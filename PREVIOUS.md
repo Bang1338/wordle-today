@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was July 17th, 2025, Wordle 1489
+Previous one was July 18th, 2025, Wordle 1490
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "M"
+  Begins with the letter "L"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "L"
+  Ends with the letter "S"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A modal proposition.
+  Any of several small, slow-moving primates, of the family Lorisidae, found in India and southeast Asia.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  MODAL
+  LORIS
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
