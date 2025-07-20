@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is July 19th, 2025, Wordle 1491
+Today is July 20th, 20th25, Wordle 1492
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -30,17 +30,17 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "B"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "D"
+  Ends with the letter "K"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A long-bladed weapon with a hilt, and usually a pommel and cross-guard, which is designed to stab, slash, and/or hack.
+  A small French coin, originally of silver, afterwards of copper, worth 5 deniers; also a silver coin of Henry V current in the parts of France then held by the English, worth about 8 pence .
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  SWORD
+  BLANK
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?
