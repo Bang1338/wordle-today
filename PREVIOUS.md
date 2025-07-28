@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was July 26th, 2025, Wordle 1498
+Previous one was July 27th, 2025, Wordle 1499
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "H"
+  Begins with the letter "W"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "T"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A place at which one is regularly found; a habitation or hangout.
+  Something complete, without any parts missing.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  HAUNT
+  WHOLE
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
