@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is July 29th, 2025, Wordle 1501
+Today is July 30th, 2025, Wordle 1502
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -18,29 +18,29 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  Zero repeated letters.
+  2 repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 3 vowels. 
+  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "O"
+  Begins with the letter "A"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "A"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The twenty-fourth letter of the Classical and the Modern Greek alphabet, and the twenty-eighth letter of the Old and the Ancient Greek alphabet, i.e. the last letter of every Greek alphabet. Uppercase version: Ω; lowercase: ω.
+  Trial, attempt.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  OMEGA
+  ASSAY
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?
