@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be August 05th, 2025th, Wordle 1508
+Tomorrow will be August 06th, 2025, Wordle 1509
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "G"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "K"
+  Ends with the letter "N"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A large wading bird with long legs and a long beak of the family Ciconiidae.
+  A low, mournful sound uttered in pain or grief.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  STORK
+  GROAN
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
