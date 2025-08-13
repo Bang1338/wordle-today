@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was August 11th, 2025, Wordle 1514
+Previous one was August 12th, 2025, Wordle 1515
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "N"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "H"
+  Ends with the letter "D"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map, abbreviated as S.
+  A member of a society or class who herd animals from pasture to pasture with no fixed home.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SOUTH
+  NOMAD
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
