@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was August 12th, 2025, Wordle 1515
+Previous one was August 13th, 2025, Wordle 1516
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "N"
+  Begins with the letter "K"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "D"
+  Ends with the letter "R"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A member of a society or class who herd animals from pasture to pasture with no fixed home.
+  A fermented milk drink from the Caucasus and Eastern Europe, similar to yogurt but more liquidy.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  NOMAD
+  KEFIR
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?

@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be August 14th, 2025, Wordle 1517
+Tomorrow will be August 15th, 2025, Wordle 1518
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,19 +18,19 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  2 repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "K"
+  Begins with the letter "L"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The sound of a bell knelling; a toll (particularly one signalling a death).
+  A tool for finding whether a surface is level, or for creating a horizontal or vertical line of reference.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  KNELL
+  LEVEL
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
