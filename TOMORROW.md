@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be August 16th, 2025, Wordle 1519
+Tomorrow will be August 17th, 2025, Wordle 1520
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,7 +18,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "M"
+  Begins with the letter "L"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A decorative border around a picture used to inset and center the contents of a frame.
+  Remarkably bad; of poor quality, dirty, or underhanded; mean, contemptible.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  MATTE
+  LOUSY
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
