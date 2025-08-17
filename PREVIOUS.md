@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was August 15th, 2025, Wordle 1518
+Previous one was August 16th, 2025, Wordle 1519
 
 Outdated? See [new one here](README.md)
 
@@ -18,29 +18,29 @@ Outdated? See [new one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  2 repeated letters.
+  1 repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "L"
+  Begins with the letter "M"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "L"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A tool for finding whether a surface is level, or for creating a horizontal or vertical line of reference.
+  A decorative border around a picture used to inset and center the contents of a frame.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  LEVEL
+  MATTE
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
