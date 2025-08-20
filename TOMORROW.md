@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be August 20th, 20th25, Wordle 1523
+Tomorrow will be August 21st, 2025, Wordle 1524
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,29 +18,29 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  2 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "L"
+  Begins with the letter "E"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "A"
+  Ends with the letter "L"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A South American mammal of the camel family, Lama glama, used as a domestic beast of burden and a source of wool and meat.
+  To praise; to make high.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  LLAMA
+  EXTOL
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
