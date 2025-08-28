@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be August 28th, 2025, Wordle 1531
+Tomorrow will be August 29th, 2025, Wordle 1532
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -30,7 +30,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "G"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A crack or longitudinal fissure.
+  A small shoot or scion of a tree inserted in another tree, the stock of which is to support and nourish it. The two unite and become one tree, but the graft determines the kind of fruit.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SPLIT
+  GRAFT
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?

@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was August 26th, 2025, Wordle 1529
+Previous one was August 27th, 2025, Wordle 1530
 
 Outdated? See [new one here](README.md)
 
@@ -18,7 +18,7 @@ Outdated? See [new one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "A"
+  Begins with the letter "T"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "X"
+  Ends with the letter "R"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  An addition, an extension.
+  A very tall iron-framed structure, usually painted red and white, on which microwave, radio, satellite, or other communication antennas are installed; mast.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  ANNEX
+  TOWER
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
