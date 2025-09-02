@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was August 31st, 2025, Wordle 1534
+Previous one was September 01st, 2025, Wordle 1535
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "P"
+  Begins with the letter "L"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "L"
+  Ends with the letter "T"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  One of the component parts of the corolla of a flower. It applies particularly, but not necessarily only, when the corolla consists of separate parts, that is when the petals are not connately fused. Petals are often brightly colored.
+  Something of the smallest possible extent; an indivisible unit.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  PETAL
+  LEAST
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
