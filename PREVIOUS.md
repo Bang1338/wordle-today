@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was September 02nd, 2nd02nd5, Wordle 1536
+Previous one was September 03rd, 2025, Wordle 1537
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "M"
+  Begins with the letter "F"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "T"
+  Ends with the letter "H"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Power, strength, force or influence held by a person or group.
+  An act of fetching, of bringing something from a distance.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  MIGHT
+  FETCH
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
