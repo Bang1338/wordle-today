@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was September 06th, 2025, Wordle 1540
+Previous one was September 07th, 2025, Wordle 1541
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "B"
+  Begins with the letter "T"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "R"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Something sticking out from a surface; a swelling, protuberant part; a bending outward, especially when caused by pressure.
+  A musical range or section higher than bass and lower than alto.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  BULGE
+  TENOR
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
