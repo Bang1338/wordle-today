@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was September 08th, 2025, Wordle 1542
+Previous one was September 09th, 2025, Wordle 1543
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "C"
+  Begins with the letter "T"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "P"
+  Ends with the letter "K"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A short, sharp or high note or noise, as of a bird or insect.
+  Something designed to fool or swindle.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  CHIRP
+  TRICK
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
