@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was September 13th, 2025, Wordle 1547
+Previous one was September 14th, 2025, Wordle 1548
 
 Outdated? See [new one here](README.md)
 
@@ -34,13 +34,13 @@ Outdated? See [new one here](README.md)
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "R"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The point of the celestial sphere, directly opposite the zenith; inferior pole of the horizon; point of the celestial sphere directly under the place of observation.
+  Making a noise, especially a loud unpleasant sound
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  NADIR
+  NOISY
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
