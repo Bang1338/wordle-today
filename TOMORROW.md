@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be September 18th, 2025, Wordle 1552
+Tomorrow will be September 19th, 2025, Wordle 1553
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "K"
+  Begins with the letter "L"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "R"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle. The blade may be pointed for piercing.
+  Near the end of a period of time.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  KNIFE
+  LATER
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
