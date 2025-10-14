@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was October 12th, 2025, Wordle 1576
+Previous one was October 13th, 2025, Wordle 1577
 
 Outdated? See [new one here](README.md)
 
@@ -30,7 +30,7 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "W"
+  Begins with the letter "B"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Outdated? See [new one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  An injury, such as a cut, stab, or tear, to a (usually external) part of the body.
+  Facial hair on the chin, cheeks, jaw and neck.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  WOUND
+  BEARD
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
