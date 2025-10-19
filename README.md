@@ -1,3 +1,6 @@
+# NOTICE: Wordle Today will be stopped due to [Free Dictionary API](https://dictionaryapi.dev) stopped working. I will find a way to replace that unstable API and replace with other or my own one later.
+#### (Of course, free stuffs will have disadvatage.)
+
 <h1 align="center">
 Wordle Today
 </h1>
