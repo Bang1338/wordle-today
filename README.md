@@ -1,6 +1,3 @@
-# NOTICE: Wordle Today will be stopped due to [Free Dictionary API](https://dictionaryapi.dev) stopped working. I will find a way to replace that unstable API and replace with other or my own one later.
-#### (Of course, free stuffs will have disadvatage.)
-
 <h1 align="center">
 Wordle Today
 </h1>
@@ -9,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is October 15th, 2025, Wordle 1579
+Today is October 21st, 2025, Wordle 1585
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -21,29 +18,29 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "D"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "F"
+  Ends with the letter "X"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  An act of deception; a hoax; a joking prank.
+  Detoxification, especially of the body from alcohol or illegal, addictive drugs.
 </details>
 
 ## ANSWER
@@ -51,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  SPOOF
+  DETOX
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?

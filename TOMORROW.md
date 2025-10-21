@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be October 16th, 2025, Wordle 1580
+Tomorrow will be October 22nd, 2025, Wordle 1586
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "C"
+  Begins with the letter "S"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "Y"
+  Ends with the letter "T"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  (of a person or remark) With subtle hostility in an effort to hurt, annoy or upset, particularly among women.
+  A daring or dangerous feat, often involving the display of gymnastic skills.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  CATTY
+  STUNT
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
