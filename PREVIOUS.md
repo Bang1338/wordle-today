@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was October 22nd, 2025, Wordle 1586
+Previous one was October 23rd, 2025, Wordle 1587
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "D"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "T"
+  Ends with the letter "L"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A daring or dangerous feat, often involving the display of gymnastic skills.
+  A tool used to remove material so as to create a hole, typically by plunging a rotating cutting bit into a stationary workpiece.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  STUNT
+  DRILL
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
