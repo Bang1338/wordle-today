@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is October 30th, 2025, Wordle 1594
+Today is October 31st, 2025, Wordle 1595
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -30,17 +30,17 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "L"
+  Begins with the letter "A"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "R"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  To invite; bid; ask.
+  To regard with horror or detestation; to shrink back with shuddering from; to feel excessive repugnance toward; to detest to extremity; to loathe.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  LATHE
+  ABHOR
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?

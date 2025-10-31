@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was October 29th, 2025, Wordle 1593
+Previous one was October 30th, 2025, Wordle 1594
 
 Outdated? See [new one here](README.md)
 
@@ -30,7 +30,7 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "G"
+  Begins with the letter "L"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Outdated? See [new one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  An intense, blinding light.
+  To invite; bid; ask.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  GLARE
+  LATHE
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
