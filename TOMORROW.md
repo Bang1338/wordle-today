@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be November 01st, 2025, Wordle 1596
+Tomorrow will be November 02nd, 2nd02nd5, Wordle 1597
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "M"
+  Begins with the letter "R"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "L"
+  Ends with the letter "D"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A type of hotel or lodging establishment, often located near a major highway, which typically features a series of rooms the entrances of which are immediately adjacent to a parking lot to facilitate convenient access to automobiles parked there.
+  A human or animal infected with rabies.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  MOTEL
+  RABID
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
