@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is November 05th, 2025th, Wordle 1600
+Today is November 06th, 2025, Wordle 1601
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -24,23 +24,23 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 3 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "G"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "T"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A short circuit.
+  Customary way of speaking or acting; fashion, manner, practice (often used formerly in such phrases as "at his own guise"; that is, in his own fashion, to suit himself.)
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  SHORT
+  GUISE
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?
