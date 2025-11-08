@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was November 06th, 2025, Wordle 1601
+Previous one was November 07th, 2025, Wordle 1602
 
 Outdated? See [new one here](README.md)
 
@@ -24,23 +24,23 @@ Outdated? See [new one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 3 vowels. 
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "G"
+  Begins with the letter "P"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "L"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Customary way of speaking or acting; fashion, manner, practice (often used formerly in such phrases as "at his own guise"; that is, in his own fashion, to suit himself.)
+  A situation of serious and immediate danger.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  GUISE
+  PERIL
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
