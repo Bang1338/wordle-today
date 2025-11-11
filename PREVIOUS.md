@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was November 09th, 2025, Wordle 1604
+Previous one was November 10th, 2025, Wordle 1605
 
 Outdated? See [new one here](README.md)
 
@@ -24,23 +24,23 @@ Outdated? See [new one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. In fact, one of them are repeated. If I count that too, there are 3 vowels.
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "F"
+  Begins with the letter "T"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A contrapuntal piece of music wherein a particular melody is played in a number of voices, each voice introduced in turn by playing the melody.
+  A kind of waved silk, usually called watered silk, manufactured like taffeta, but thicker and stronger. The watering is given to it by calendering.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  FUGUE
+  TABBY
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
