@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is November 16th, 2025, Wordle 1611
+Today is November 17th, 2025, Wordle 1612
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -24,23 +24,23 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "W"
+  Begins with the letter "C"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "D"
+  Ends with the letter "P"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  To command, rule over; to possess or own.
+  A brace, band, or clasp for strengthening or holding things together.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  WIELD
+  CLAMP
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?
