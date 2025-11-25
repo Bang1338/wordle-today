@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is November 24th, 2025, Wordle 1619
+Today is November 25th, 2025th, Wordle 1620
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -30,17 +30,17 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "D"
+  Begins with the letter "P"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "H"
+  Ends with the letter "D"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A thick, malleable substance made by mixing flour with other ingredients such as water, eggs, and/or butter, that is made into a particular form and then baked.
+  To present (an argument or a plea), especially in a legal case.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  DOUGH
+  PLEAD
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?
