@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be November 28th, 2025, Wordle 1623
+Tomorrow will be November 29th, 2025, Wordle 1624
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "C"
+  Begins with the letter "G"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "C"
+  Ends with the letter "F"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Severe pains that grip the abdomen or the disease that causes such pains (due to intestinal or bowel-related problems).
+  To speak gruffly.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  COLIC
+  GRUFF
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?

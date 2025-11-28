@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was November 26th, 2025, Wordle 1621
+Previous one was November 27th, 2025, Wordle 1622
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "H"
+  Begins with the letter "R"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "L"
+  Ends with the letter "T"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  An open shed for sheltering cattle, or protecting produce, etc., from the weather.
+  Terms of reference; set of responsibilities; scope.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  HOVEL
+  REMIT
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
