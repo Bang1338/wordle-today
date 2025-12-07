@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be December 07th, 2025, Wordle 1632
+Tomorrow will be December 08th, 2025, Wordle 1633
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "F"
+  Begins with the letter "G"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A woodwind instrument consisting of a tube with a row of holes that produce sound through vibrations caused by air blown across the edge of the holes, often tuned by plugging one or more holes with a finger; the Western concert flute, a transverse side-blown flute of European origin.
+  A thick sauce made from the fat or juices that come out from meat or vegetables as they are being cooked.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  FLUTE
+  GRAVY
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
