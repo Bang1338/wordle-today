@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was December 06th, 2025, Wordle 1631
+Previous one was December 07th, 2025, Wordle 1632
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "W"
+  Begins with the letter "F"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "T"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The part of the body between the pelvis and the stomach.
+  A woodwind instrument consisting of a tube with a row of holes that produce sound through vibrations caused by air blown across the edge of the holes, often tuned by plugging one or more holes with a finger; the Western concert flute, a transverse side-blown flute of European origin.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  WAIST
+  FLUTE
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
