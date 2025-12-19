@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was December 17th, 2025, Wordle 1642
+Previous one was December 18th, 2025, Wordle 1643
 
 Outdated? See [new one here](README.md)
 
@@ -18,7 +18,7 @@ Outdated? See [new one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "G"
+  Begins with the letter "R"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "S"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain.
+  (usually uncountable) A form of football in which players can hold or kick an ovoid ball. The ball cannot be handled forwards and points are scored by touching the ball to the ground in the area past their opponent’s territory or kicking the ball between goalposts and over a crossbar.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  GRASS
+  RUGBY
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
