@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be December 20th, 20th25, Wordle 1645
+Tomorrow will be December 21st, 2025, Wordle 1646
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "W"
+  Begins with the letter "Q"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "T"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The color/colour of snow or milk; the colour of light containing equal amounts of all visible wavelengths.
+  A bed covering consisting of two layers of fabric stitched together, with insulation between, often having a decorative design.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  WHITE
+  QUILT
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
