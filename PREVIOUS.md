@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was December 26th, 2025, Wordle 1651
+Previous one was December 27th, 2025, Wordle 1652
 
 Outdated? See [new one here](README.md)
 
@@ -18,29 +18,29 @@ Outdated? See [new one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "B"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "D"
+  Ends with the letter "H"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The state of moving quickly or the capacity for rapid motion; rapidity.
+  The quantity of bread or other baked goods baked at one time.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SPEED
+  BATCH
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
