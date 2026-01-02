@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be January 02nd, 2nd02nd6, Wordle 1658
+Tomorrow will be January 03rd, 2026, Wordle 1659
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,29 +18,29 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "P"
+  Begins with the letter "S"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "F"
+  Ends with the letter "R"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  An effort, process, or operation designed to establish or discover a fact or truth; an act of testing; a test; a trial.
+  A Hindustani/Indian classical stringed instrument, typically having a gourd as its resonating chamber.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  PROOF
+  SITAR
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
