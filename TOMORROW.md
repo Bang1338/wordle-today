@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be January 07th, 2026, Wordle 1663
+Tomorrow will be January 08th, 2026, Wordle 1664
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "P"
+  Begins with the letter "B"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "N"
+  Ends with the letter "T"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A deciduous tree, Carya illinoinensis, of the central and southern United States, having deeply furrowed bark, pinnately compound leaves, and edible nuts.
+  A violent gust of wind.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  PECAN
+  BLAST
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
