@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was January 08th, 2026, Wordle 1664
+Previous one was January 09th, 2026, Wordle 1665
 
 Outdated? See [new one here](README.md)
 
@@ -24,13 +24,13 @@ Outdated? See [new one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "B"
+  Begins with the letter "E"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Outdated? See [new one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A violent gust of wind.
+  The digit/figure 8.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  BLAST
+  EIGHT
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
