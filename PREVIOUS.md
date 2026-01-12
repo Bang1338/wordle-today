@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was January 10th, 2026, Wordle 1666
+Previous one was January 11th, 2026, Wordle 1667
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "M"
+  Begins with the letter "Q"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "C"
+  Ends with the letter "K"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Of or pertaining to someone who exhibits mania or craziness; wicked.
+  In the Standard Model, an elementary subatomic particle that forms matter. They combine to form hadrons, such as protons and neutrons.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  MANIC
+  QUARK
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
