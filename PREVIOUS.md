@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was January 18th, 2026, Wordle 1674
+Previous one was January 19th, 2026, Wordle 1675
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "W"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "C"
+  Ends with the letter "N"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Any of various shrubs or small trees of the genus Rhus and other genera in Anacardiaceae, particularly the elm-leaved sumac, Sicilian sumac, or tanner's sumac (Rhus coriaria).
+  Grown.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SUMAC
+  WAXEN
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
