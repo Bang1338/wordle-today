@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be January 21st, 2026, Wordle 1677
+Tomorrow will be January 22nd, 2026, Wordle 1678
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,13 +18,13 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
@@ -34,13 +34,13 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "C"
+  Ends with the letter "K"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A cubic curve.
+  The sound of metal on metal, or glass on glass.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  CUBIC
+  CLINK
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
