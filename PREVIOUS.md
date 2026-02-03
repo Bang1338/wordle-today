@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was January 29th, 2026, Wordle 1685
+Previous one was February 02nd, 2nd02nd6, Wordle 1689
 
 Outdated? See [new one here](README.md)
 
@@ -24,23 +24,23 @@ Outdated? See [new one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "F"
+  Begins with the letter "C"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "Y"
+  Ends with the letter "R"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Consisting of flakes or of small, loose masses; lying, or cleaving off, in flakes or layers; flakelike.
+  Tobacco rolled and wrapped with an outer covering of tobacco leaves, intended to be smoked.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  FLAKY
+  CIGAR
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
