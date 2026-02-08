@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be February 08th, 2026, Wordle 1695
+Tomorrow will be February 09th, 2026, Wordle 1696
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "E"
+  Begins with the letter "C"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "D"
+  Ends with the letter "O"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  An embedded reporter or journalist, such as a war reporter assigned to and travelling with a military unit, or a political reporter assigned to follow and report on the campaign of a candidate.
+  A large stringed instrument of the violin family with four strings, tuned from lowest to highest C-G-D-A, and played with a bow, also possessing an endpin to support the instrument's weight.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  EMBED
+  CELLO
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
