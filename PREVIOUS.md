@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was February 12th, 2026, Wordle 1699
+Previous one was February 13th, 2026, Wordle 1700
 
 Outdated? See [new one here](README.md)
 
@@ -18,29 +18,29 @@ Outdated? See [new one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  Zero repeated letters.
+  1 repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "M"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "H"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A sudden transient rush, flood or increase.
+  An aimless stroll.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SURGE
+  MOOCH
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
