@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be February 17th, 2026, Wordle 1704
+Tomorrow will be February 18th, 2026, Wordle 1705
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "M"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "D"
+  Ends with the letter "L"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A group of people organized for some common purpose, usually of about ten members.
+  A rich or powerful person; a magnate.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SQUAD
+  MOGUL
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
