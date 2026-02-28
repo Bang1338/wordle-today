@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be February 28th, 2026, Wordle 1715
+Tomorrow will be March 01st, 2026, Wordle 1716
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "H"
+  Begins with the letter "F"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "A"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Any of several small freshwater polyps of the genus Hydra and related genera, having a naked cylindrical body and an oral opening surrounded by tentacles.
+  A lucky or improbable occurrence, with the implication that the occurrence could not be repeated.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  HYDRA
+  FLUKE
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
