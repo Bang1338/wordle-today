@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was March 01st, 2026, Wordle 1716
+Previous one was March 02nd, 2nd02nd6, Wordle 1717
 
 Outdated? See [new one here](README.md)
 
@@ -30,7 +30,7 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "F"
+  Begins with the letter "S"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Outdated? See [new one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A lucky or improbable occurrence, with the implication that the occurrence could not be repeated.
+  Soft, moist earth or clay, having an adhesive quality; viscous mud; any substance of a dirty nature, that is moist, soft, and adhesive; bitumen; mud containing metallic ore, obtained in the preparatory dressing.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  FLUKE
+  SLIME
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
