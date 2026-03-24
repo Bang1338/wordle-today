@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was March 22nd, 2026, Wordle 1737
+Previous one was March 23rd, 2026, Wordle 1738
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "B"
+  Begins with the letter "S"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "L"
+  Ends with the letter "F"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A plant (Ocimum basilicum).
+  A short line added to the end of a stroke in traditional typefaces, such as Times New Roman.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  BASIL
+  SERIF
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
