@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be March 31st, 2026, Wordle 1746
+Tomorrow will be April 01st, 2026, Wordle 1747
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,7 +18,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  Zero repeated letters.
+  1 repeated letters.
 </details>
 
 ### Hint #2: Vowels
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "F"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "P"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A piece of wet, spongy land; low ground saturated with water; soft, wet ground which may have a growth of certain kinds of trees, but is unfit for agricultural or pastoral purposes.
+  A non-alcoholic carbonated beverage.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SWAMP
+  FIZZY
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
