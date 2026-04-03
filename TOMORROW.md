@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be April 03rd, 2026, Wordle 1749
+Tomorrow will be April 04th, 2026, Wordle 1750
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,7 +24,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
@@ -34,13 +34,13 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "Y"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A burning of the surface; a slight burn.
+  Covered with sand.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SINGE
+  SANDY
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
