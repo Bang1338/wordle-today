@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was April 02nd, 2nd02nd6, Wordle 1748
+Previous one was April 03rd, 2026, Wordle 1749
 
 Outdated? See [new one here](README.md)
 
@@ -34,13 +34,13 @@ Outdated? See [new one here](README.md)
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "R"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  (often with up) To make or become sober.
+  A burning of the surface; a slight burn.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SOBER
+  SINGE
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
