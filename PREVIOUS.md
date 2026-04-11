@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was April 09th, 2026, Wordle 1755
+Previous one was April 10th, 2026, Wordle 1756
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "L"
+  Begins with the letter "C"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "N"
+  Ends with the letter "M"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  To fill or load (related to cargo or a shipment).
+  (cue sports, especially billiards) A shot in which the ball struck with the cue comes in contact with two or more balls on the table; a hitting of two or more balls with the player's ball.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  LADEN
+  CAROM
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
