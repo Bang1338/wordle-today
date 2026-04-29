@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was April 27th, 2026, Wordle 1773
+Previous one was April 28th, 2026, Wordle 1774
 
 Outdated? See [new one here](README.md)
 
@@ -18,29 +18,29 @@ Outdated? See [new one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. In fact, one of them are repeated. If I count that too, there are 3 vowels.
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "E"
+  Begins with the letter "Q"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "E"
+  Ends with the letter "K"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Strange, weird, fear-inspiring.
+  The sound made by a duck.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  EERIE
+  QUACK
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
