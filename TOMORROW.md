@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be May 05th, 2026, Wordle 1781
+Tomorrow will be May 06th, 2026th, Wordle 1782
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,7 +24,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
@@ -34,13 +34,13 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "H"
+  Ends with the letter "N"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  To close or lock as if with a latch.
+  (followed by to or unto) To compare; to state that (something) is like (something else).
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  LATCH
+  LIKEN
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
