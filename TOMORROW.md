@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be May 06th, 2026th, Wordle 1782
+Tomorrow will be May 07th, 2026, Wordle 1783
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "L"
+  Begins with the letter "B"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "N"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  (followed by to or unto) To compare; to state that (something) is like (something else).
+  To move.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  LIKEN
+  BUDGE
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
