@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be May 23rd, 2026, Wordle 1799
+Tomorrow will be May 24th, 2026, Wordle 1800
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. In fact, one of them are repeated. If I count that too, there are 3 vowels.
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "C"
+  Begins with the letter "N"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "K"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Meat from the shoulder of a cow or other animal.
+  A daughter of one’s sibling, brother-in-law, or sister-in-law; either the daughter of one's brother ("fraternal niece"), or of one's sister ("sororal niece").
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  CHUCK
+  NIECE
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
