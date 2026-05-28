@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be May 28th, 2026, Wordle 1804
+Tomorrow will be May 29th, 2026, Wordle 1805
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "D"
+  Begins with the letter "C"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "T"
+  Ends with the letter "G"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A torn-up piece of turf, especially by a golf club in making a stroke or by a horse's hoof.
+  A loud, ringing sound, like that made by free-hanging metal objects striking each other.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  DIVOT
+  CLANG
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
