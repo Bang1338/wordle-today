@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be May 30th, 2026, Wordle 1806
+Tomorrow will be May 31st, 2026, Wordle 1807
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,19 +18,19 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  Zero repeated letters.
+  1 repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 2 vowels. In fact, one of them are repeated. If I count that too, there are 3 vowels.
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "E"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or voluntary expression of happiness, pleasure, amusement or anxiety.
+  A short piece of music, designed to give a performer practice in a particular area or skill.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SMILE
+  ETUDE
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
