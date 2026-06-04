@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be June 04th, 2026, Wordle 1811
+Tomorrow will be June 05th, 2026, Wordle 1812
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,19 +18,19 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "A"
+  Begins with the letter "N"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A metal that is a combination of two or more elements, at least one of which is a metal.
+  In a noble manner.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  ALLOY
+  NOBLY
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
