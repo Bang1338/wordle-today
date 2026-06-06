@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be June 06th, 2026th, Wordle 1813
+Tomorrow will be June 07th, 2026, Wordle 1814
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -30,17 +30,17 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "M"
+  Begins with the letter "T"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "H"
+  Ends with the letter "B"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  (grammar) A physical form representing some morpheme in language. It is a recurrent distinctive sound or sequence of sounds.
+  The short thick digit of the hand that for humans has the most mobility and can be made to oppose (moved to touch) all of the other fingers.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  MORPH
+  THUMB
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
