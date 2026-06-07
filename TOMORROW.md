@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be June 07th, 2026, Wordle 1814
+Tomorrow will be June 08th, 2026, Wordle 1815
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,29 +18,29 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  Zero repeated letters.
+  1 repeated letters.
 </details>
 
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 2 vowels. In fact, one of them are repeated. If I count that too, there are 3 vowels.
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "T"
+  Begins with the letter "M"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "B"
+  Ends with the letter "A"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The short thick digit of the hand that for humans has the most mobility and can be made to oppose (moved to touch) all of the other fingers.
+  A hierarchically structured secret organisation engaged in illegal activities like distribution of narcotics, gambling and extortion.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  THUMB
+  MAFIA
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
