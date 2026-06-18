@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be June 18th, 2026, Wordle 1825
+Tomorrow will be June 19th, 2026, Wordle 1826
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,7 +24,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 1 vowels. 
+  There are 3 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
@@ -34,13 +34,13 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "Y"
+  Ends with the letter "I"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The act of entering.
+  A digital graphic icon with a unique code point used to represent a concept or object, originally used in Japanese text messaging but since adopted internationally in other contexts such as social media.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  ENTRY
+  EMOJI
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
