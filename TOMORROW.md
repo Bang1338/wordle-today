@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be June 25th, 2026, Wordle 1832
+Tomorrow will be June 26th, 2026th, Wordle 1833
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -24,23 +24,23 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 3 vowels. 
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "U"
+  Begins with the letter "A"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "Y"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Oneness; the state or fact of being one undivided entity.
+  A person who has the acute form of a disorder, such as schizophrenia.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  UNITY
+  ACUTE
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
