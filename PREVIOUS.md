@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was June 27th, 2026, Wordle 1834
+Previous one was June 28th, 2026, Wordle 1835
 
 Outdated? See [new one here](README.md)
 
@@ -30,17 +30,17 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "S"
+  Begins with the letter "E"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "P"
+  Ends with the letter "E"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  Any cup- or bowl-shaped tool, usually with a handle, used to lift and move loose or soft solid material.
+  A rapper.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  SCOOP
+  EMCEE
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
