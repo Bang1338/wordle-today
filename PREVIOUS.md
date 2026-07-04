@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was July 02nd, 2nd02nd6, Wordle 1839
+Previous one was July 03rd, 2026, Wordle 1840
 
 Outdated? See [new one here](README.md)
 
@@ -30,7 +30,7 @@ Outdated? See [new one here](README.md)
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "M"
+  Begins with the letter "B"
 </details>
 <details>
   <summary>Last one</summary>
@@ -40,7 +40,7 @@ Outdated? See [new one here](README.md)
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  An expert in a given field.
+  A staff or truncheon, used for various purposes
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  MAVEN
+  BATON
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
