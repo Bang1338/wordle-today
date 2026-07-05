@@ -6,7 +6,7 @@ Wordle Today
 A Wordle hints everyday
 </h3>
 
-Today is July 04th, 2026, Wordle 1841
+Today is July 05th, 2026, Wordle 1842
 
 Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) here
 
@@ -18,7 +18,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
@@ -30,17 +30,17 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "P"
+  Begins with the letter "S"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "A"
+  Ends with the letter "I"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A baked Italian dish of a thinly rolled bread dough crust typically topped before baking with tomato sauce, cheese and other ingredients such as meat, vegetables or fruit
+  (used as a title) A Hindu ascetic or religious teacher.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Other timezone or wrong day? See [previous](PREVIOUS.md) or [tomorrow](TOMORROW.
 
 <details>
   <summary>The word is...</summary>
-  PIZZA
+  SWAMI
 </details>
 
 Want to see [previous](PREVIOUS.md) or [tomorrow](TOMORROW.md) hints and answer?
