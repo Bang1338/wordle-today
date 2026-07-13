@@ -6,7 +6,7 @@ Wordle Today
 Except this one is for tomorrow
 </h3>
 
-Tomorrow will be July 13th, 2026, Wordle 1850
+Tomorrow will be July 14th, 2026, Wordle 1851
 
 Don't want to get spoilered or too early? See [current one here](README.md)
 
@@ -18,7 +18,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 ### Hint #1: Repeated letters
 <details>
   <summary>How many?</summary>
-  1 repeated letters.
+  Zero repeated letters.
 </details>
 
 ### Hint #2: Vowels
@@ -34,13 +34,13 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "T"
+  Ends with the letter "K"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  A dark and strong malt brew made with toasted grain.
+  Beefsteak, a slice of beef, broiled or cut for broiling.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Don't want to get spoilered or too early? See [current one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  STOUT
+  STEAK
 </details>
 
 Want to see [previous](PREVIOUS.md) or [today](README.md) hints and answer?
