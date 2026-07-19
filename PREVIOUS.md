@@ -6,7 +6,7 @@ Wordle Today
 Except it was previous one
 </h3>
 
-Previous one was July 17th, 2026, Wordle 1854
+Previous one was July 18th, 2026, Wordle 1855
 
 Outdated? See [new one here](README.md)
 
@@ -24,23 +24,23 @@ Outdated? See [new one here](README.md)
 ### Hint #2: Vowels
 <details>
   <summary>How many?</summary>
-  There are 2 vowels. 
+  There are 1 vowels. In fact, one of them are repeated. If I count that too, there are 2 vowels.
 </details>
 
 ### Hint #3: First letter and Last letter
 <details>
   <summary>First one</summary>
-  Begins with the letter "L"
+  Begins with the letter "B"
 </details>
 <details>
   <summary>Last one</summary>
-  Ends with the letter "L"
+  Ends with the letter "H"
 </details>
 
 ### Hint #4: Meaning
 <details>
   <summary>The word, Mason, what does that mean?</summary>
-  The legal department of a company.
+  A small stall for the display and sale of goods.
 </details>
 
 ## ANSWER
@@ -48,7 +48,7 @@ Outdated? See [new one here](README.md)
 
 <details>
   <summary>The word is...</summary>
-  LEGAL
+  BOOTH
 </details>
 
 Want to see [today](README.md) or [tomorrow](TOMORROW.md) hints and answer?
